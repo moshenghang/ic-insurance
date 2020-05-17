@@ -1,8 +1,8 @@
-package com.shenhangyu.icard.icardweb.controller;
+package com.shenhangyu.ic.insurance.controller;
 
 import com.alibaba.fastjson.JSONObject;
-import com.shenhangyu.icard.icardweb.bean.CardInfoBean;
-import com.shenhangyu.icard.icardweb.service.CardInfoService;
+import com.shenhangyu.ic.insurance.bean.CardInfoBean;
+import com.shenhangyu.ic.insurance.service.CardInfoService;
 
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;
